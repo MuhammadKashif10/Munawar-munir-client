@@ -134,7 +134,7 @@ const post: Post = {
     {
       ul: [
         "**Billiard and pool tables:** Safely dismantle heavy slate pool tables, felt tops, and timber pedestals with our specialized [pool table removal in Dubai](/blog/pool-table-removal-and-disposal-dubai) crew.",
-        "**Foosball and air hockey tables:** Clear mechanical soccer tables, electronic air hockey systems, and arcade machines alongside your table tennis setup.",
+        "**Foosball and air hockey tables:** Clear mechanical soccer tables, electronic air hockey systems, and arcade machines alongside your table tennis setup with our dedicated [foosball table disposal in Dubai](/blog/foosball-table-and-air-hockey-table-removal-dubai) guide.",
         "**Home gym equipment and weights:** Dispose of treadmills, exercise bikes, power racks, and heavy dumbbell sets using our dedicated [gym equipment removal](/blog/gym-equipment-removal-dubai) service.",
         "**Garden trampolines and play centres:** Dismantle rusted backyard trampolines, outdoor swings, and play forts with our [trampoline removal](/blog/trampoline-and-play-equipment-removal-dubai) team.",
         "**Patio furniture and garden waste:** Combine your clearance with sun loungers, rattan daybeds, and green clippings through our [garden waste removal](/services/garden-waste-removal) and [villa furniture clearance](/services/villa-furniture-clearance) services.",

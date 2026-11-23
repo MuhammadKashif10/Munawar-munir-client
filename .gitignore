@@ -42,3 +42,4 @@ next-env.d.ts
 
 # temp scripts
 scripts/*.py
+__pycache__/

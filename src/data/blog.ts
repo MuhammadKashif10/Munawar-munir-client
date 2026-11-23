@@ -89,6 +89,9 @@ import conferenceTableRemoval from "./posts/conference-table-and-meeting-room-fu
 import receptionDeskRemoval from "./posts/reception-desk-and-counter-removal-dubai";
 import barCounterRemoval from "./posts/bar-counter-and-home-bar-removal-dubai";
 import tableTennisTableRemoval from "./posts/table-tennis-table-and-ping-pong-table-removal-dubai";
+import serverRackRemoval from "./posts/server-rack-and-network-cabinet-removal-dubai";
+import patioHeaterDisposal from "./posts/patio-heater-and-outdoor-heater-disposal-dubai";
+import foosballTableRemoval from "./posts/foosball-table-and-air-hockey-table-removal-dubai";
 
 export type Block =
   | { h2: string }
@@ -216,6 +219,9 @@ export const allPosts: Post[] = [
   receptionDeskRemoval,
   barCounterRemoval,
   tableTennisTableRemoval,
+  serverRackRemoval,
+  patioHeaterDisposal,
+  foosballTableRemoval,
 ];
 
 /** "YYYY-MM-DD" for `now` in Dubai time. */

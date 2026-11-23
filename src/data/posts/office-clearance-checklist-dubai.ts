@@ -105,7 +105,7 @@ const post: Post = {
       ul: [
         "**Physical document shredding:** Secure locked document consoles and filing archives must be cleared and processed through certified on-site or off-site cross-cut industrial shredding services, accompanied by certificates of destruction.",
         "**Hard drive and storage de-manufacturing:** Certified data sanitisation (using NIST 800-88 compliant data wiping) or physical degaussing and drive shredding must be completed on all decommissioned server drives, laptops, and multifunction copiers.",
-        "**Server rack decommissioning:** Specialized IT technicians should disconnect rack-mounted UPS units, switches, routers, and patch panels, neatly capping structured data cables.",
+        "**Server rack decommissioning:** Specialized IT technicians should disconnect rack-mounted UPS units, switches, routers, and patch panels, neatly capping structured data cables. Review our guide to [server rack disposal in Dubai](/blog/server-rack-and-network-cabinet-removal-dubai) for physical deconstruction and metal recycling protocols.",
         "**Hazardous e-waste segregation:** Segregate lead-acid UPS backup batteries, toner cartridges, and fluorescent tube lighting from general office waste, as these hazardous items cannot enter standard commercial waste streams.",
       ],
     },

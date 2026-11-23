@@ -767,6 +767,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | ping pong table disposal dubai | 🟡 Good | Commercial | `/blog/table-tennis-table-and-ping-pong-table-removal-dubai` | Live (secondary) |
 | ping pong table removal dubai | ⚪ Long-tail | Commercial | `/blog/table-tennis-table-and-ping-pong-table-removal-dubai` | Live (secondary) |
 
+### Server racks, network cabinets & IT enclosures (added 23 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| server rack disposal dubai | 🟢 Strong | Info → commercial | `/blog/server-rack-and-network-cabinet-removal-dubai` | Live (primary) |
+| server rack removal dubai | 🟢 Strong | Commercial | `/blog/server-rack-and-network-cabinet-removal-dubai` | Live (secondary) |
+| network cabinet disposal dubai | 🟡 Good | Commercial | `/blog/server-rack-and-network-cabinet-removal-dubai` | Live (secondary) |
+| data cabinet removal dubai | ⚪ Long-tail | Commercial | `/blog/server-rack-and-network-cabinet-removal-dubai` | Live (secondary) |
+
+### Patio heaters, pyramid gas burners & outdoor heaters (added 23 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| patio heater disposal dubai | 🟢 Strong | Info → commercial | `/blog/patio-heater-and-outdoor-heater-disposal-dubai` | Live (primary) |
+| patio heater removal dubai | 🟢 Strong | Commercial | `/blog/patio-heater-and-outdoor-heater-disposal-dubai` | Live (secondary) |
+| outdoor heater disposal dubai | 🟡 Good | Commercial | `/blog/patio-heater-and-outdoor-heater-disposal-dubai` | Live (secondary) |
+| gas patio heater removal dubai | ⚪ Long-tail | Commercial | `/blog/patio-heater-and-outdoor-heater-disposal-dubai` | Live (secondary) |
+
+### Foosball tables, soccer tables & air hockey tables (added 23 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| foosball table disposal dubai | 🟢 Strong | Info → commercial | `/blog/foosball-table-and-air-hockey-table-removal-dubai` | Live (primary) |
+| foosball table removal dubai | 🟢 Strong | Commercial | `/blog/foosball-table-and-air-hockey-table-removal-dubai` | Live (secondary) |
+| air hockey table disposal dubai | 🟡 Good | Commercial | `/blog/foosball-table-and-air-hockey-table-removal-dubai` | Live (secondary) |
+| arcade table removal dubai | ⚪ Long-tail | Commercial | `/blog/foosball-table-and-air-hockey-table-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)
