@@ -57,7 +57,7 @@ const post: Post = {
         "**Family lifestyle transitions:** Growing families frequently reconfigure entertainment spaces into nurseries, private study areas, or kids' hobby zones, requiring the complete clearance of obsolete bar cabinetry.",
         "**Modernising villa interiors:** Dark, ornate 1990s-style mahogany and heavy brass bar counters can make contemporary living spaces feel dated and congested, prompting owners to replace them with open Scandinavian minimalist layouts.",
         "**Preparing properties for sale on the secondary market:** Real estate agents frequently advise sellers that heavy, personalized custom bars narrow buyer appeal, recommending full removal to showcase spacious, flexible square footage.",
-        "**Water leaks and wood rot behind wet bars:** Undetected plumbing drips behind wet bar sinks or condensation behind unventilated beverage coolers can rot timber carcasses and foster mildew, making demolition necessary.",
+        "**Water leaks and wood rot behind wet bars:** Undetected plumbing drips behind wet bar sinks or condensation behind unventilated [wine chillers and beverage coolers](/blog/wine-cooler-and-wine-chiller-disposal-dubai) can rot timber carcasses and foster mildew, making demolition necessary.",
       ],
     },
     {

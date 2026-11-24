@@ -794,6 +794,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | air hockey table disposal dubai | 🟡 Good | Commercial | `/blog/foosball-table-and-air-hockey-table-removal-dubai` | Live (secondary) |
 | arcade table removal dubai | ⚪ Long-tail | Commercial | `/blog/foosball-table-and-air-hockey-table-removal-dubai` | Live (secondary) |
 
+### Wine chillers, wine coolers & beverage refrigerators (added 24 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| wine chiller disposal dubai | 🟢 Strong | Info → commercial | `/blog/wine-cooler-and-wine-chiller-disposal-dubai` | Live (primary) |
+| wine chiller removal dubai | 🟢 Strong | Commercial | `/blog/wine-cooler-and-wine-chiller-disposal-dubai` | Live (secondary) |
+| wine cooler disposal dubai | 🟡 Good | Commercial | `/blog/wine-cooler-and-wine-chiller-disposal-dubai` | Live (secondary) |
+| beverage cooler removal dubai | ⚪ Long-tail | Commercial | `/blog/wine-cooler-and-wine-chiller-disposal-dubai` | Live (secondary) |
+
+### Artificial grass, fake turf & synthetic lawns (added 24 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| artificial grass disposal dubai | 🟢 Strong | Info → commercial | `/blog/artificial-grass-and-turf-removal-dubai` | Live (primary) |
+| artificial grass removal dubai | 🟢 Strong | Commercial | `/blog/artificial-grass-and-turf-removal-dubai` | Live (secondary) |
+| fake turf removal dubai | 🟡 Good | Commercial | `/blog/artificial-grass-and-turf-removal-dubai` | Live (secondary) |
+| astro turf disposal dubai | ⚪ Long-tail | Commercial | `/blog/artificial-grass-and-turf-removal-dubai` | Live (secondary) |
+
+### Exercise bikes, spin cycles & elliptical trainers (added 24 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| exercise bike disposal dubai | 🟢 Strong | Info → commercial | `/blog/exercise-bike-and-elliptical-removal-dubai` | Live (primary) |
+| exercise bike removal dubai | 🟢 Strong | Commercial | `/blog/exercise-bike-and-elliptical-removal-dubai` | Live (secondary) |
+| elliptical cross trainer removal dubai | 🟡 Good | Commercial | `/blog/exercise-bike-and-elliptical-removal-dubai` | Live (secondary) |
+| spin bike removal dubai | ⚪ Long-tail | Commercial | `/blog/exercise-bike-and-elliptical-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

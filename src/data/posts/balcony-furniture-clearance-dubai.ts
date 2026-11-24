@@ -112,7 +112,7 @@ const post: Post = {
     },
     { h2: "Removing weathered artificial grass, deck tiles, and privacy reed screening" },
     {
-      p: "Many Dubai residents install artificial turf, interlocking acacia deck tiles, or bamboo reed screening to make their concrete balconies feel lush and private. When moving out, landlords and building inspectors almost always require tenants to remove these temporary floor coverings.",
+      p: "Many Dubai residents install [artificial grass and synthetic turf](/blog/artificial-grass-and-turf-removal-dubai), interlocking acacia deck tiles, or bamboo reed screening to make their concrete balconies feel lush and private. When moving out, landlords and building inspectors almost always require tenants to remove these temporary floor coverings.",
     },
     {
       ol: [

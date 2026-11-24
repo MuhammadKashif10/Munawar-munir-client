@@ -140,7 +140,7 @@ const post: Post = {
       h3: "Option 1: Private resale via online classifieds",
     },
     {
-      p: "If your treadmill, stationary spin bike, or rowing machine is from a reputable brand (such as NordicTrack, Life Fitness, Technogym, or Bowflex), is less than five years old, and remains in flawless working order, selling it on local classified portals like dubizzle or Facebook Marketplace is viable. However, be prepared to host multiple buyer viewings, handle aggressive price negotiations, and navigate the reality that private buyers rarely bring suitable transport or tools to dismantle heavy machines, often expecting you to assist with heavy lifting.",
+      p: "If your treadmill, stationary spin bike, or rowing machine is from a reputable brand (such as NordicTrack, Life Fitness, Technogym, or Bowflex), is less than five years old, and remains in flawless working order, selling it on local classified portals like dubizzle or Facebook Marketplace is viable. For broken or non-working cardio equipment, specialized [exercise bike and elliptical disposal](/blog/exercise-bike-and-elliptical-removal-dubai) provides direct collection and scrap metal recycling.",
     },
     {
       h3: "Option 2: Charitable donation to community centers",

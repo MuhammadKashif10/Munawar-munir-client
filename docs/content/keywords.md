@@ -211,6 +211,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 89 | server rack disposal dubai | Server Rack and Network Cabinet Removal in Dubai: Office IT Guide | Info → commercial | office-furniture-removal, junk-removal | ✅ |
 | 90 | patio heater disposal dubai | Patio Heater and Outdoor Heater Disposal in Dubai: Garden Guide | Info → commercial | garden-waste-removal, villa-furniture-clearance | ✅ |
 | 91 | foosball table disposal dubai | Foosball Table and Air Hockey Table Removal in Dubai: Games Guide | Info → commercial | furniture-removal, villa-furniture-clearance | ✅ |
+| 92 | wine chiller disposal dubai | Wine Chiller and Wine Cooler Disposal in Dubai: Under-Counter Guide | Info → commercial | appliance-removal, luxury-furniture-removal | ✅ |
+| 93 | artificial grass disposal dubai | Artificial Grass and Synthetic Turf Removal in Dubai: Garden Guide | Info → commercial | garden-waste-removal, villa-furniture-clearance | ✅ |
+| 94 | exercise bike disposal dubai | Exercise Bike and Elliptical Cross Trainer Removal in Dubai Guide | Info → commercial | furniture-removal, junk-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 
