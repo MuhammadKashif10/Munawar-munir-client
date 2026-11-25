@@ -821,6 +821,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | elliptical cross trainer removal dubai | 🟡 Good | Commercial | `/blog/exercise-bike-and-elliptical-removal-dubai` | Live (secondary) |
 | spin bike removal dubai | ⚪ Long-tail | Commercial | `/blog/exercise-bike-and-elliptical-removal-dubai` | Live (secondary) |
 
+### Kitchen cabinets, pantry units & modular cupboards (added 25 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| kitchen cabinet disposal dubai | 🟢 Strong | Info → commercial | `/blog/kitchen-cabinet-and-cupboard-removal-dubai` | Live (primary) |
+| kitchen cabinet removal dubai | 🟢 Strong | Commercial | `/blog/kitchen-cabinet-and-cupboard-removal-dubai` | Live (secondary) |
+| kitchen cupboard disposal dubai | 🟡 Good | Commercial | `/blog/kitchen-cabinet-and-cupboard-removal-dubai` | Live (secondary) |
+| modular kitchen removal dubai | ⚪ Long-tail | Commercial | `/blog/kitchen-cabinet-and-cupboard-removal-dubai` | Live (secondary) |
+
+### Tumble dryers, condenser dryers & heat-pump dryers (added 25 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| tumble dryer disposal dubai | 🟢 Strong | Info → commercial | `/blog/how-to-dispose-of-a-tumble-dryer-in-dubai` | Live (primary) |
+| tumble dryer removal dubai | 🟢 Strong | Commercial | `/blog/how-to-dispose-of-a-tumble-dryer-in-dubai` | Live (secondary) |
+| clothes dryer disposal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-a-tumble-dryer-in-dubai` | Live (secondary) |
+| heat pump dryer disposal dubai | ⚪ Long-tail | Commercial | `/blog/how-to-dispose-of-a-tumble-dryer-in-dubai` | Live (secondary) |
+
+### Chest freezers, upright freezers & deep freezers (added 25 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| chest freezer disposal dubai | 🟢 Strong | Info → commercial | `/blog/how-to-dispose-of-a-chest-freezer-in-dubai` | Live (primary) |
+| chest freezer removal dubai | 🟢 Strong | Commercial | `/blog/how-to-dispose-of-a-chest-freezer-in-dubai` | Live (secondary) |
+| deep freezer disposal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-a-chest-freezer-in-dubai` | Live (secondary) |
+| upright freezer removal dubai | ⚪ Long-tail | Commercial | `/blog/how-to-dispose-of-a-chest-freezer-in-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

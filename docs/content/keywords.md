@@ -214,6 +214,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 92 | wine chiller disposal dubai | Wine Chiller and Wine Cooler Disposal in Dubai: Under-Counter Guide | Info → commercial | appliance-removal, luxury-furniture-removal | ✅ |
 | 93 | artificial grass disposal dubai | Artificial Grass and Synthetic Turf Removal in Dubai: Garden Guide | Info → commercial | garden-waste-removal, villa-furniture-clearance | ✅ |
 | 94 | exercise bike disposal dubai | Exercise Bike and Elliptical Cross Trainer Removal in Dubai Guide | Info → commercial | furniture-removal, junk-removal | ✅ |
+| 95 | kitchen cabinet disposal dubai | Kitchen Cabinet and Cupboard Removal in Dubai: Strip-Out Guide | Info → commercial | wardrobe-cabinet-removal, furniture-removal | ✅ |
+| 96 | tumble dryer disposal dubai | How to Dispose of a Tumble Dryer in Dubai: Step-by-Step Guide | Info → commercial | appliance-removal, junk-removal | ✅ |
+| 97 | chest freezer disposal dubai | How to Dispose of a Chest Freezer in Dubai: Deep Freezer Guide | Info → commercial | appliance-removal, villa-furniture-clearance | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 
