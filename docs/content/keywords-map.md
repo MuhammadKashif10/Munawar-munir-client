@@ -848,6 +848,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | deep freezer disposal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-a-chest-freezer-in-dubai` | Live (secondary) |
 | upright freezer removal dubai | ⚪ Long-tail | Commercial | `/blog/how-to-dispose-of-a-chest-freezer-in-dubai` | Live (secondary) |
 
+### Bean bags, floor poufs & outdoor loungers (added 26 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| bean bag disposal dubai | 🟢 Strong | Info → commercial | `/blog/bean-bag-and-floor-pouf-disposal-dubai` | Live (primary) |
+| bean bag removal dubai | 🟢 Strong | Commercial | `/blog/bean-bag-and-floor-pouf-disposal-dubai` | Live (secondary) |
+| floor pouf disposal dubai | 🟡 Good | Commercial | `/blog/bean-bag-and-floor-pouf-disposal-dubai` | Live (secondary) |
+| outdoor bean bag disposal dubai | ⚪ Long-tail | Commercial | `/blog/bean-bag-and-floor-pouf-disposal-dubai` | Live (secondary) |
+
+### Standing desks, electric desks & sit-stand workstations (added 26 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| standing desk disposal dubai | 🟢 Strong | Info → commercial | `/blog/standing-desk-and-sit-stand-workstation-removal-dubai` | Live (primary) |
+| standing desk removal dubai | 🟢 Strong | Commercial | `/blog/standing-desk-and-sit-stand-workstation-removal-dubai` | Live (secondary) |
+| electric desk disposal dubai | 🟡 Good | Commercial | `/blog/standing-desk-and-sit-stand-workstation-removal-dubai` | Live (secondary) |
+| sit stand desk removal dubai | ⚪ Long-tail | Commercial | `/blog/standing-desk-and-sit-stand-workstation-removal-dubai` | Live (secondary) |
+
+### Bathroom vanities, sink cabinets & mirror cupboards (added 26 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| bathroom vanity disposal dubai | 🟢 Strong | Info → commercial | `/blog/bathroom-vanity-and-sink-cabinet-removal-dubai` | Live (primary) |
+| bathroom vanity removal dubai | 🟢 Strong | Commercial | `/blog/bathroom-vanity-and-sink-cabinet-removal-dubai` | Live (secondary) |
+| sink cabinet disposal dubai | 🟡 Good | Commercial | `/blog/bathroom-vanity-and-sink-cabinet-removal-dubai` | Live (secondary) |
+| bathroom mirror cabinet removal dubai | ⚪ Long-tail | Commercial | `/blog/bathroom-vanity-and-sink-cabinet-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

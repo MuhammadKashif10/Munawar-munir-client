@@ -217,6 +217,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 95 | kitchen cabinet disposal dubai | Kitchen Cabinet and Cupboard Removal in Dubai: Strip-Out Guide | Info → commercial | wardrobe-cabinet-removal, furniture-removal | ✅ |
 | 96 | tumble dryer disposal dubai | How to Dispose of a Tumble Dryer in Dubai: Step-by-Step Guide | Info → commercial | appliance-removal, junk-removal | ✅ |
 | 97 | chest freezer disposal dubai | How to Dispose of a Chest Freezer in Dubai: Deep Freezer Guide | Info → commercial | appliance-removal, villa-furniture-clearance | ✅ |
+| 98 | bean bag disposal dubai | Bean Bag Disposal in Dubai: Floor Poufs & Outdoor Loungers | Info → commercial | sofa-removal, furniture-removal | ✅ |
+| 99 | standing desk disposal dubai | Standing Desk Disposal in Dubai: Electric & Sit-Stand Desks | Info → commercial | office-furniture-removal, furniture-removal | ✅ |
+| 100 | bathroom vanity disposal dubai | Bathroom Vanity Disposal in Dubai: Sink Cabinets & Mirrors | Info → commercial | wardrobe-cabinet-removal, junk-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

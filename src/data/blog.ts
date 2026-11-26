@@ -98,6 +98,9 @@ import exerciseBikeRemoval from "./posts/exercise-bike-and-elliptical-removal-du
 import kitchenCabinetRemoval from "./posts/kitchen-cabinet-and-cupboard-removal-dubai";
 import tumbleDryerDisposal from "./posts/how-to-dispose-of-a-tumble-dryer-in-dubai";
 import chestFreezerDisposal from "./posts/how-to-dispose-of-a-chest-freezer-in-dubai";
+import beanBagDisposal from "./posts/bean-bag-and-floor-pouf-disposal-dubai";
+import standingDeskDisposal from "./posts/standing-desk-and-sit-stand-workstation-removal-dubai";
+import bathroomVanityDisposal from "./posts/bathroom-vanity-and-sink-cabinet-removal-dubai";
 
 export type Block =
   | { h2: string }
@@ -234,6 +237,9 @@ export const allPosts: Post[] = [
   kitchenCabinetRemoval,
   tumbleDryerDisposal,
   chestFreezerDisposal,
+  beanBagDisposal,
+  standingDeskDisposal,
+  bathroomVanityDisposal,
 ];
 
 /** "YYYY-MM-DD" for `now` in Dubai time. */
