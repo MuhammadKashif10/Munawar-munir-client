@@ -875,6 +875,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | sink cabinet disposal dubai | 🟡 Good | Commercial | `/blog/bathroom-vanity-and-sink-cabinet-removal-dubai` | Live (secondary) |
 | bathroom mirror cabinet removal dubai | ⚪ Long-tail | Commercial | `/blog/bathroom-vanity-and-sink-cabinet-removal-dubai` | Live (secondary) |
 
+### Kitchen islands, butcher blocks & prep counters (added 27 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| kitchen island disposal dubai | 🟢 Strong | Info → commercial | `/blog/kitchen-island-and-butcher-block-removal-dubai` | Live (primary) |
+| kitchen island removal dubai | 🟢 Strong | Commercial | `/blog/kitchen-island-and-butcher-block-removal-dubai` | Live (secondary) |
+| butcher block disposal dubai | 🟡 Good | Commercial | `/blog/kitchen-island-and-butcher-block-removal-dubai` | Live (secondary) |
+| freestanding kitchen island removal dubai | ⚪ Long-tail | Commercial | `/blog/kitchen-island-and-butcher-block-removal-dubai` | Live (secondary) |
+
+### Banquet tables, folding chairs & event furniture (added 27 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| banquet table disposal dubai | 🟢 Strong | Info → commercial | `/blog/banquet-table-and-folding-chair-disposal-dubai` | Live (primary) |
+| event furniture removal dubai | 🟢 Strong | Commercial | `/blog/banquet-table-and-folding-chair-disposal-dubai` | Live (secondary) |
+| folding chair disposal dubai | 🟡 Good | Commercial | `/blog/banquet-table-and-folding-chair-disposal-dubai` | Live (secondary) |
+| catering table removal dubai | ⚪ Long-tail | Commercial | `/blog/banquet-table-and-folding-chair-disposal-dubai` | Live (secondary) |
+
+### Salon chairs, barber chairs & massage tables (added 27 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| salon chair disposal dubai | 🟢 Strong | Info → commercial | `/blog/salon-chair-and-massage-table-disposal-dubai` | Live (primary) |
+| salon furniture removal dubai | 🟢 Strong | Commercial | `/blog/salon-chair-and-massage-table-disposal-dubai` | Live (secondary) |
+| barber chair disposal dubai | 🟡 Good | Commercial | `/blog/salon-chair-and-massage-table-disposal-dubai` | Live (secondary) |
+| massage table removal dubai | ⚪ Long-tail | Commercial | `/blog/salon-chair-and-massage-table-disposal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

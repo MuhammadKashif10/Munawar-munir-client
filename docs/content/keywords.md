@@ -220,6 +220,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 98 | bean bag disposal dubai | Bean Bag Disposal in Dubai: Floor Poufs & Outdoor Loungers | Info → commercial | sofa-removal, furniture-removal | ✅ |
 | 99 | standing desk disposal dubai | Standing Desk Disposal in Dubai: Electric & Sit-Stand Desks | Info → commercial | office-furniture-removal, furniture-removal | ✅ |
 | 100 | bathroom vanity disposal dubai | Bathroom Vanity Disposal in Dubai: Sink Cabinets & Mirrors | Info → commercial | wardrobe-cabinet-removal, junk-removal | ✅ |
+| 101 | kitchen island disposal dubai | Kitchen Island Disposal in Dubai: Butcher Blocks & Counters | Info → commercial | furniture-removal, dining-table-chair-removal | ✅ |
+| 102 | banquet table disposal dubai | Banquet Table Disposal in Dubai: Event & Folding Chairs | Info → commercial | office-furniture-removal, villa-furniture-clearance | ✅ |
+| 103 | salon chair disposal dubai | Salon Chair Disposal in Dubai: Barber & Spa Bed Removal | Info → commercial | office-furniture-removal, furniture-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 
